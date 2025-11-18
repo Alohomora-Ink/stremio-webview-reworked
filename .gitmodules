@@ -1,0 +1,6 @@
+[submodule "vcpkg"]
+	path = vcpkg
+	url = https://github.com/microsoft/vcpkg.git
+[submodule "deps/libmpv"]
+	path = deps/libmpv
+	url = https://github.com/Zaarrg/libmpv.git

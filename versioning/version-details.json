@@ -1,0 +1,17 @@
+{
+  "shellVersion": "5.0.20",
+  "files": {
+    "windows-x64": {
+      "url": "<redacted>",
+      "checksum": "<redacted>"
+    },
+    "windows-x86": {
+      "url": "<redacted>",
+      "checksum": "<redacted>"
+    },
+    "server.js": {
+      "url": "<redacted>",
+      "checksum": "<redacted>"
+    }
+  }
+}
